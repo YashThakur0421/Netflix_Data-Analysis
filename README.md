@@ -29,7 +29,7 @@ This project explores the Netflix dataset to answer questions such as:
 |---|---|
 | `netflix.csv` | Raw Netflix dataset (8,807 titles, 12 columns) |
 | `IMDb-sample.csv` | Supplementary IMDb sample data |
-| `Project_Netflix_Data_Analysis.ipynb` | Jupyter notebook with the full data analysis and visualizations |
+| `Netflix_Data_Analysis.ipynb` | Jupyter notebook with the full data analysis and visualizations |
 | `project_netflix_data_analysis.py` | Python script version of the analysis |
 | `Analysis of Netflix Movies & TV Shows.pdf` | Full written report of findings and methodology |
 | `README.md` | Project overview (this file) |
@@ -110,7 +110,7 @@ pip install pandas numpy matplotlib seaborn wordcloud
 ```
 
 **Run the analysis:**
-- Open `Project_Netflix_Data_Analysis.ipynb` in Jupyter Notebook / JupyterLab, **or**
+- Open `Netflix_Data_Analysis.ipynb` in Jupyter Notebook / JupyterLab, **or**
 - Run the script directly:
 ```bash
 python project_netflix_data_analysis.py
@@ -126,12 +126,12 @@ python project_netflix_data_analysis.py
 ## 🔗 Quick Links
 
 <p align="center">
-  <a href="https://colab.research.google.com/github/YashThakur0421/Netflix_Data-Analysis/blob/main/Netflix_Data_Analysis.ipynb">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
+  <a href="https://colab.research.google.com/drive/1fe6EUl29KfrmSZVN77IbEzE_eiOsQZz5#scrollTo=8ST0SKyfULne">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="220">
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/YashThakur0421/Netflix_Data-Analysis/blob/main/Analysis%20of%20Netflix%20Movies%20%26%20TV%20Shows.pdf">
-    <img src="https://img.shields.io/badge/Read-Full%20Report%20(PDF)-red?logo=adobeacrobatreader" alt="Read the Report">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/1KB38xREFXBhr1Nyi3uVNtpiOdnfATRq7/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Read-Full%20Report%20(PDF)-red?style=for-the-badge&logo=adobeacrobatreader" alt="Read the Report" height="35">
   </a>
 </p>
 
