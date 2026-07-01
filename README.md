@@ -126,11 +126,11 @@ python project_netflix_data_analysis.py
 ## 🔗 Quick Links
 
 <p align="center">
-  <a href="https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/Project_Netflix_Data_Analysis.ipynb">
+  <a href="https://colab.research.google.com/github/YashThakur0421/Netflix_Data-Analysis/blob/main/Netflix_Data_Analysis.ipynb#scrollTo=lyHSdvnx7k_f">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/Analysis%20of%20Netflix%20Movies%20%26%20TV%20Shows.pdf">
+  <a href="file:///C:/Users/YASH%20THAKUR/Downloads/my%20project/Analysis%20of%20Netflix%20Movies%20&%20TV%20Shows.pdf">
     <img src="https://img.shields.io/badge/Read-Full%20Report%20(PDF)-red?logo=adobeacrobatreader" alt="Read the Report">
   </a>
 </p>
